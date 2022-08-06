@@ -1,0 +1,42 @@
+{
+    "music": [
+      {
+        "id": 1,
+        "name": "Game 1",
+        "price": 5999,
+        "imgName": "Game1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Game 2",
+        "price": 5999,
+        "imgName": "Game2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Game 3",
+        "price": 5999,
+        "imgName": "Game3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Game 4",
+        "price": 5999,
+        "imgName": "Game4.jpg"
+      }
+    ],
+    "merch": [
+      {
+        "id": 5,
+        "name": "Mario Cap",
+        "price": 799,
+        "imgName": "Merch1.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Luigi Cap",
+        "price": 699,
+        "imgName": "Merch2.jpg"
+      }
+    ]
+  }
